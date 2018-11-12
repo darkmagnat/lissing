@@ -5,7 +5,7 @@ client.on('ready', function(){
    
     client.user.setPresence({
  game: { 
-    type: 1,
+    type: 2,
      url: 'http://spoti.fi/28XQEzP',
     name: '-Universe Town` 1K-Soon........ ',
     application_id: '501452003143319553',//هنا ايدي البوت 
